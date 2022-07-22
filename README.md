@@ -2,6 +2,8 @@
 
 精選餐廳資訊通通都有，可以一次瀏覽所有餐廳，或點進去看更多詳細資訊。
 
+![restaurant-list-demo](./public/image/restaurant-list-demo.png)
+
 ## 功能
 
 - 使用者可以在首頁查看所有餐廳
